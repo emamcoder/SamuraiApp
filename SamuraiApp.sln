@@ -1,0 +1,51 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiApp", "SamuraiApp\SamuraiApp.csproj", "{0D30F6CA-FF5F-497D-98CF-839E818D1A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samurai.App.Domain", "Samurai.App.Domain\Samurai.App.Domain.csproj", "{8D488089-38AE-4E82-8542-DCAF4EDA0562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samurai.App.Data", "Samurai.App.Data\Samurai.App.Data.csproj", "{8A14EF16-CD41-4092-B280-749F827EDBC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samurai.App.Test", "Samurai.App.Test\Samurai.App.Test.csproj", "{51CD283B-64E5-4EAE-8708-A6EFCB8EB399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D30F6CA-FF5F-497D-98CF-839E818D1A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D30F6CA-FF5F-497D-98CF-839E818D1A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D30F6CA-FF5F-497D-98CF-839E818D1A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D30F6CA-FF5F-497D-98CF-839E818D1A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D488089-38AE-4E82-8542-DCAF4EDA0562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D488089-38AE-4E82-8542-DCAF4EDA0562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D488089-38AE-4E82-8542-DCAF4EDA0562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D488089-38AE-4E82-8542-DCAF4EDA0562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A14EF16-CD41-4092-B280-749F827EDBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A14EF16-CD41-4092-B280-749F827EDBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A14EF16-CD41-4092-B280-749F827EDBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A14EF16-CD41-4092-B280-749F827EDBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CD283B-64E5-4EAE-8708-A6EFCB8EB399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CD283B-64E5-4EAE-8708-A6EFCB8EB399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CD283B-64E5-4EAE-8708-A6EFCB8EB399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CD283B-64E5-4EAE-8708-A6EFCB8EB399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$0.VersionControlPolicy = $6
+	EndGlobalSection
+EndGlobal
