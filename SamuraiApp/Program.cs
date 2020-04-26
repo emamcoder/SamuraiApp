@@ -20,7 +20,7 @@ namespace SamuraiApp
 
         private static void AddSamurai()
         {
-            var samurai = new Samurai.App.Domain.Samurai { Name = "Ataur" };
+            var samurai = new Samurai.App.Domain.Samurai { Name = "Ziaur" };
             context.Samurais.Add(samurai);
             context.SaveChanges();
         }
